@@ -15,7 +15,7 @@ pip install streamlit
 streamlit run app.py
 ```
 
-## Project roadmap
+## Roadmap
 | Goal                                   | Date
 |                                       -|-
 | Dataset selection and understanding    | 4/19/2024
