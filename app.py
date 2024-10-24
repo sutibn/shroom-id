@@ -8,12 +8,11 @@ feature_input = dict()
 
 st.set_page_config(page_title="Shroom ID", page_icon="./images/logo.ico", layout="wide")
 
+with st.columns(3)[1]:
+    st.image("./images/head.png")
+
 st.markdown("<h1 style='text-align: center;'>Shroom ID</h1>", unsafe_allow_html=True)
 st.markdown("<h6 style='text-align: center; color: gray;'>made by sutibn</h6>", unsafe_allow_html=True)
-
-cx, cy, cz = st.columns(3)
-with cy:
-    st.image("./images/banner.png")
 
 colA, colB = st.columns(spec=[10, 0.5])
 tabA, tabB = st.tabs(['About', 'Run'])
@@ -29,7 +28,7 @@ with tabA:
     st.markdown(about)
 
 with tabB:
-    cx, cy= st.columns(2)
+    cx, cy = st.columns(2)
     with cx:
         st.image("./images/cap-shape.png", width=650)
         st.caption("Cap shape")
