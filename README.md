@@ -1,6 +1,6 @@
-
+<h1 align="center">shroomID</h1>
 <p align="center">
-    # shroomID
+    
     <img src="./img/logo.png" width="200" height="200">
 </p>
 
