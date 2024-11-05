@@ -1,6 +1,6 @@
 # shroomID
 
-<img src="./img/logo.png"  width="300" height="300">
+<img src="./img/logo.png" width="300" height="300">
 
 ## Problem
 When forgaging for wild mushrooms, it can be difficult to accurately predict whether or not a species of mushroom is safe for human consumption. To address this, we can use machine learning to develop a classification model that is capable of automatically distinguishing edible mushrooms from poisonous mushrooms.
