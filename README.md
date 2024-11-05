@@ -1,10 +1,9 @@
 <h1 align="center">shroomID</h1>
 
 <p align="center">
-    <img src="./img/logo.png" width="150 height="150">
+    <img src="./img/logo.png" width="200 height="200">
     <img src="./img/preview.png" width="720" height="512">
 </p>
-
 
 ## Problem
 When forgaging for wild mushrooms, it can be difficult to accurately predict whether or not a species of mushroom is safe for human consumption. To address this, we can use machine learning to develop a classification model that is capable of automatically distinguishing edible mushrooms from poisonous mushrooms.
@@ -20,6 +19,7 @@ From the UCI Machine Learning repository, the [mushroom](https://archive.ics.uci
 pip install streamlit
 streamlit run app.py
 ```
+
 ## Structure
     .
     ├── app
