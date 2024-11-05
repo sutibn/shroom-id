@@ -1,6 +1,7 @@
 # shroomID
-
-<img src="./img/logo.png" width="200" height="200">
+<p align="center">
+    <img src="./img/logo.png" width="200" height="200">
+</p>
 
 <img src="./img/preview.png">
 
