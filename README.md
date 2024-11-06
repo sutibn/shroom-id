@@ -2,6 +2,7 @@
 
 <p align="center">
     <img src="./img/preview.png?">
+    <img src="./img/mockup.png?">
 </p>
 
 ## Problem statement
