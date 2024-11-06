@@ -1,7 +1,7 @@
 <h1 align="center">shroomID: Wild Mushroom Analyzer</h1>
 
 <p align="center">
-    <img src='./img/preview.png'>
+    <img src='./img/preview.png?'>
     <img src='./img/mockup.png?'>
 </p>
 
