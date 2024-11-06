@@ -1,7 +1,7 @@
 <h1 align="center">shroomID</h1>
 
 <p align="center">
-    <img src="./img/preview-clear.png">
+    <img src="./img/preview-clear.png?">
 </p>
 
 ## Problem statement
